@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-This repository and profile is managed by Aurora Mascolo. 
+This repository and profile is managed by Aurora Mascolo.. 
